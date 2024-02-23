@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught Software Engineer from Starkville, MS. I love building things and solving problems 👷‍♂️\
+I'm a self-taught Software Engineer from Columbus, MS. I love building things and solving problems 👷‍♂️\
 \
 I primarily use ReactJS⚛ and JavaScript🟨, but I'm always excited to learn new things!\
 \

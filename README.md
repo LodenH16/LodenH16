@@ -2,7 +2,7 @@
 
 I'm a self-taught Software Engineer from Columbus, MS. I love building things and solving problems 👷‍♂️\
 \
-I primarily use ReactJS⚛ and JavaScript🟨, but I'm always excited to learn new things!\
+I primarily use ReactJS⚛, VueJS🌱, and JavaScript🟨, but I'm always excited to learn new things!\
 \
 In my free time, I like playing D&D 🐉 or disc golf\
 \
